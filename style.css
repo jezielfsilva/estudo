@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.principal {
+	background-image: url(./marketing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #212222;
+}
+
+.menu {
+	background-color: #151515;
+	width: 197vh;
+	height: 4vw;
+	margin-left: 0em;
+	margin-top: -1em;
+}
+
+.foto-menu {
+	width: 18vh;
+	height: 7vw;
+	margin-left: 1em;
+	margin-top: 0.5em;
+}
+
+.conteiner-navegação {
+	margin-top: -108px;
+}
+
+.botão-cabeçalho {
+	margin-left: 50em;
+	margin-top: -10px;
+	background-color: #29987A;
+	font-family: cursive;
+	border-radius: 4px;
+	border-style: none;
+	color:#FAFCFB;
+	font-size: 23px;
+	width: 80px;
+	height: 40px;
+}
+
+.menu-principal {
+	display: inline-flex;
+	list-style-type: none;
+	margin-left: 50em;
+	margin-top: -23px;
+	margin: -8px;
+	padding-top: 0px;
+	color: #F0FFF0;
+	font-family: cursive;
+	font-size: 23px;
+}
+
+.item-menu {
+	margin: 15px;
+	margin-top: 0px;
+}
+
+.caixa {
+	margin-top: 300px;
+}
+
+.titulo {
+	font-size: 60px;
+	color: #08597B;
+	margin-left: 154px;
+	text-shadow: 2px 2px 2px #696969;
+}
+
+.descrição {
+	font-size: 40px;
+	color: #08597B;
+	margin-left: 154px;
+	text-shadow: 2px 2px 2px #696969;
+}
+
+.botão-texto {
+	background-color: #29987A;
+	font-family: cursive;
+	border-radius: 4px;
+	border-style: none;
+	color:#FAFCFB;
+	font-size: 20px;
+	margin-left: 154px;
+	width: 100px;
+	height: 36px;
+}
+
+.rodapé {
+	text-align: center;
+	font-size: 70px;
+	color:#29987A;
+	margin-top: 150px;
+	text-shadow: 2px 2px 2px #696969;
+}
